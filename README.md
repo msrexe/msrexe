@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net Core, Golang, React**
 
-- 👨‍💻 Portfolio [melihsivri.com](melihsivri.com)
+- 👨‍💻 Portfolio [melihsivri.com](https://melihsivri.com)
 
 - 📫 How to reach me **mlheymen.ms@gmail.com**
 
